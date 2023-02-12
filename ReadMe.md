@@ -1,0 +1,1 @@
+The HR Dashboard is a Power BI visualization I created following a video on youtube. IT was my very first Power BI visualization created. After this one, I have gone on to create more visualizations using Power BI, and more than anything visualization with Power BI is one thing I really enjoy. 
